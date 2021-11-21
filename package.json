@@ -1,0 +1,23 @@
+{
+  "name": "js-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marinatells/js-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marinatells/js-project/issues"
+  },
+  "homepage": "https://github.com/marinatells/js-project#readme",
+  "devDependencies": {
+    "parcel": "^2.0.1"
+  }
+}
